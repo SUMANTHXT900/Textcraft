@@ -42,7 +42,7 @@ At its core, this application prioritizes performance, privacy, and accessibilit
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/SUMANTHXT900/Textcraft.git>
+git clone https://github.com/SUMANTHXT900/Textcraft.git
 cd advanced-text-analysis-suite
 ```
 
@@ -60,3 +60,4 @@ npm run dev
 
 
 The application will start in development mode with hot reloading enabled for a smooth development experience.
+
